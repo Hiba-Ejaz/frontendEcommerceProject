@@ -42,5 +42,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![React](https://img.shields.io/badge/React-v.18-blue)\r ![Redux toolkit](https://img.shields.io/badge/RTK-v.1-purple)\r ![TypeScript](https://img.shields.io/badge/TypeScript-v.4-green)\r ![SASS](https://img.shields.io/badge/SASS-v.1-hotpink)",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
